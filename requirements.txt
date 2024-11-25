@@ -1,0 +1,14 @@
+boto3
+langchain-openai
+tiktoken
+python-dotenv
+langchain-community
+amazon-textract-caller
+amazon-textract-textractor
+img2pdf
+streamlit
+langchain
+openai
+python-dotenv
+faiss-cpu
+ipython
